@@ -1,0 +1,8 @@
+#Ignore folder
+rcode/
+.vscode/
+.builder/
+DB/
+
+#ignore files
+.r
